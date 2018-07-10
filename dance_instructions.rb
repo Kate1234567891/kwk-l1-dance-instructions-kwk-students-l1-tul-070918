@@ -10,4 +10,5 @@ def base
   puts "Finishing with a small skip-step."
 end
 
-def
+def skip-step 
+  puts ""
