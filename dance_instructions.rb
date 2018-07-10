@@ -11,4 +11,4 @@ def base
 end
 
 def skip-step 
-  puts ""
+  puts "Lower right foot to th"
