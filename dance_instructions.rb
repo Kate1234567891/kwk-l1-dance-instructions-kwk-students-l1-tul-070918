@@ -1,3 +1,4 @@
 
 # Code your methods below
-d
+def skip-step 
+  puts ""
