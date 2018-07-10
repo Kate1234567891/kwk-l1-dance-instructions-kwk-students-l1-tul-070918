@@ -10,5 +10,7 @@ def base
   puts "Finishing with a small skip-step."
 end
 
-def skip-step 
-  puts "Lower right foot to th"
+def skip_step 
+  puts "Lower right foot to the ground."
+  puts "Bounce left foot back up slightly, kicking it a few inches back."
+  puts ""
