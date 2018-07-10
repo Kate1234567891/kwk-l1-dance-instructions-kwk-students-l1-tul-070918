@@ -22,6 +22,9 @@ def skip_stepright
   puts "Right,Left,Right and Right."
 end
 
-
+def bob_reins
+  puts "Holding your arms out in front of you, straight and at chest level."
+  puts "Cross your right wrist over your left and hold them together."
+  puts ""
   
   
